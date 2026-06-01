@@ -1,0 +1,244 @@
+[
+  {
+  "info_web": {
+    "nama": "DimDump.",
+    "logo": "/gambar/logo.png",
+    "deskripsi_footer": "Dimsum goreng super krispi dengan cita rasa bintang lima harga mahasiswa. Sensasi renyah di setiap gigitannya!"
+  },
+  "popup": {
+    "gambar_desktop": [
+      "/gambar/desktop-popup1.webp",
+      "/gambar/desktop-popup2.webp",
+      "/gambar/desktop-popup3.webp"
+    ],
+    "gambar_mobile": [
+      "/gambar/mobile-popup1.webp",
+      "/gambar/mobile-popup2.webp",
+      "/gambar/mobile-popup3.webp"
+    ]
+  },
+  "promo_waktu": {
+    "jadwal_1_mulai": 7,
+    "jadwal_1_selesai": 17,
+    "jadwal_1_judul": "Pesan Sekarang! Promo Spesial Buka:",
+    "jadwal_2_mulai": 17,
+    "jadwal_2_selesai": 22,
+    "jadwal_2_judul": "Pre-Order Besok ditutup dalam:",
+    "judul_section_mobile_aktif": "Promo & Waktu Terbatas",
+    "judul_section_desktop_aktif": "Pilihan Menu Spesial",
+    "sub_section_jadwal_1_aktif": "Belanja Sekarang",
+    "sub_section_jadwal_2_aktif": "PO Sekarang"
+  },
+  "beranda": {
+    "hero": {
+      "lencana": "Spesial Dimsum Goreng",
+      "judul_1": "Garing di Luar,",
+      "judul_2": "Lembut di Dalam.",
+      "deskripsi": "DimDump menghadirkan inovasi Dimsum Goreng dengan perpaduan rasa autentik dan kerenyahan yang bikin nagih. Asli buatan mahasiswa!",
+      "gambar": [
+        "/gambar/produk1.webp",
+        "/gambar/produk2.webp",
+        "/gambar/produk3.webp",
+        "/gambar/produk4.webp",
+        "/gambar/produk5.webp"
+      ],
+      "rating": "5.0",
+      "rating_maksimal": "5.0",
+      "label_rating": "Rating Rasa"
+    },
+    "mengapa_memilih_dimdump": {
+      "judul_utama": "Kenapa Memilih DimDump?",
+      "deskripsi": "Lebih dari sekadar jajanan, DimDump adalah wujud passion kami dalam menghadirkan kualitas rasa bintang lima dengan harga ramah kantong mahasiswa.",
+      "fitur": [
+        {
+          "ikon": "Heart",
+          "judul": "Bahan Premium",
+          "deskripsi": "Menggunakan daging segar pilihan dan racikan bumbu rahasia yang autentik."
+        },
+        {
+          "ikon": "Zap",
+          "judul": "Ekstra Crispy",
+          "deskripsi": "Teknik penggorengan khusus yang menghasilkan tekstur krispi super tahan lama."
+        },
+        {
+          "ikon": "Utensils",
+          "judul": "Inovasi Mahasiswa",
+          "deskripsi": "Dibuat dengan penuh dedikasi."
+        },
+        {
+          "ikon": "Wallet",
+          "judul": "Harga Pas",
+          "deskripsi": "Kualitas rasa bintang lima dengan harga ramah kantong."
+        }
+      ]
+    },
+    "layanan_spesial": {
+      "label": "Layanan Spesial",
+      "judul_utama": "Lebih Mudah,<br class=\"block md:hidden\" /> <span class=\"text-brand-yellow\">Lebih Dekat.</span>",
+      "deskripsi": "Nikmati kemudahan memesan DimDump dengan layanan pesan antar ke tempatmu. Bebas repot, tinggal tunggu sambil nugas.",
+      "layanan": [
+        {
+          "ikon": "Truck",
+          "judul": "COD & Gratis Ongkir",
+          "judul_mobile": "COD & Gratis Ongkir",
+          "deskripsi": "Menerima layanan COD Spesial Gratis Ongkir khusus wilayah STIE Wikara dan sekitarnya."
+        },
+        {
+          "ikon": "MapPin",
+          "judul": "Ambil Sendiri",
+          "judul_mobile": "Ambil Sendiri Ke Lokasi",
+          "deskripsi": "Kamu juga bisa mengambil pesananmu secara langsung di Kampus STIE Wikara."
+        }
+      ]
+    }
+  },
+  "produk": [
+    {
+      "id": "paket_hemat",
+      "nama": "Promo Paket Hemat",
+      "deskripsi": "Nikmati 3 pcs dimsum goreng ekstra krispi dengan harga lebih hemat. Pilihan sempurna untuk mengganjal lapar saat nugas atau bersantai.",
+      "harga": 13000,
+      "harga_asli": 15000,
+      "info_satuan": "/ 3 pcs",
+      "gambar": "/gambar/produk5.webp",
+      "jumlah_tambah": 3
+    },
+    {
+      "id": "satuan",
+      "nama": "Beli Satuan",
+      "deskripsi": "",
+      "harga": 5000,
+      "harga_asli": null,
+      "info_satuan": "/ pcs",
+      "gambar": "/gambar/produk2.webp",
+      "jumlah_tambah": 1
+    }
+  ],
+  "tentang": {
+    "header": {
+      "lencana": "Tentang Perjalanan Kami",
+      "judulUtama": "Praktik Nyata Wirausaha Mahasiswa",
+      "deskripsi": "DimDump adalah inisiatif dan bentuk praktik nyata wirausaha dari kelompok mahasiswa Kampus STIE Wikara. Kami menghadirkan dimsum goreng dengan kualitas premium sebagai UMKM kebanggaan kampus yang menjangkau kantong setiap kalangan."
+    },
+    "lencana_tim": {
+      "judul": "Tim Penggerak Kami",
+      "deskripsi": "Mengenal lebih dekat wajah-wajah di balik layar yang senantiasa memastikan setiap porsi DimDump disajikan dengan sempurna."
+    },
+    "lencana_nilai": "Nilai Inti Kami",
+    "visi": "Menjadi brand pelopor UMKM kuliner mahasiswa di tingkat nasional yang dikenal dengan standar kualitas rasa bintang lima, pendekatan modern, serta inovasi yang tiada henti dalam industri jajanan kekinian.",
+    "misi": [
+      "Menyelaraskan harga yang terjangkau dengan bahan baku daging segar kualitas terbaik.",
+      "Mengutamakan kebersihan (hygiene) di setiap proses pengolahan bahan hingga penyajian.",
+      "Memberikan pelayanan yang ramah, cepat, dan berkesan bagi setiap pelanggan.",
+      "Gencar melakukan riset untuk varian saus dan racikan baru secara berkala."
+    ],
+    "nilai_nilai": [
+      {
+        "ikon": "Target",
+        "judul": "Fokus Kualitas",
+        "deskripsi": "Berkomitmen penuh pada standar mutu di atas segalanya."
+      },
+      {
+        "ikon": "Lightbulb",
+        "judul": "Inovasi Rasa",
+        "deskripsi": "Terus bereksperimen menciptakan sensasi kuliner baru."
+      },
+      {
+        "ikon": "Users",
+        "judul": "Komunitas",
+        "deskripsi": "Membangun hubungan erat dengan pelanggan dan mahasiswa."
+      },
+      {
+        "ikon": "ShieldCheck",
+        "judul": "Integritas",
+        "deskripsi": "Jujur dalam bahan, transparan dalam proses produksi."
+      }
+    ],
+    "tim": [
+      {
+        "nama": "Rizky Firmansyah",
+        "peran": "CEO & Founder",
+        "gambar": "https://ui-avatars.com/api/?name=Rizky+Firmansyah&background=random&color=fff&size=200"
+      },
+      {
+        "nama": "Amira Zahra",
+        "peran": "Chief Marketing Officer",
+        "gambar": "https://ui-avatars.com/api/?name=Amira+Zahra&background=random&color=fff&size=200"
+      },
+      {
+        "nama": "Bimo Aryo",
+        "peran": "Head of Operations",
+        "gambar": "https://ui-avatars.com/api/?name=Bimo+Aryo&background=random&color=fff&size=200"
+      },
+      {
+        "nama": "Dina Larasati",
+        "peran": "Product Development",
+        "gambar": "https://ui-avatars.com/api/?name=Dina+Larasati&background=random&color=fff&size=200"
+      }
+    ]
+  },
+  "kontak": {
+    "telepon": "083144213184",
+    "alamat": "Kampus STIE Wikara",
+    "instagram": "",
+    "email": "dimdump.official@gmail.com"
+  },
+  "informasi_bahan_baku_dan_operasional": {
+    "bahan_baku": [
+      {
+        "nama_bahan": "Daging Ayam Cincang",
+        "kebutuhan_harian": "5 kg",
+        "estimasi_harga": 200000
+      },
+      {
+        "nama_bahan": "Kulit Pangsit",
+        "kebutuhan_harian": "10 bungkus",
+        "estimasi_harga": 50000
+      },
+      {
+        "nama_bahan": "Bumbu Rahasia & Saus",
+        "kebutuhan_harian": "1 resep",
+        "estimasi_harga": 30000
+      }
+    ],
+    "operasional": [
+      {
+        "jenis_biaya": "Gas Listrik (Porsi Harian)",
+        "estimasi_biaya": 25000
+      },
+      {
+        "jenis_biaya": "Kemasan",
+        "estimasi_biaya": 40000
+      }
+    ]
+  },
+  "metode_transfer": {
+    "bank": [
+      { "id": "seabank", "nama": "Sea Bank", "no_rek": "901387277710", "atas_nama": "Rizky" },
+      { "id": "bca", "nama": "BCA", "no_rek": "", "atas_nama": "" },
+      { "id": "bjb", "nama": "BJB", "no_rek": "", "atas_nama": "" },
+      { "id": "bni", "nama": "BNI", "no_rek": "", "atas_nama": "" },
+      { "id": "bri", "nama": "BRI", "no_rek": "", "atas_nama": "" },
+      { "id": "bsi", "nama": "BSI", "no_rek": "", "atas_nama": "" },
+      { "id": "cimbniaga", "nama": "CIMB Niaga", "no_rek": "", "atas_nama": "" },
+      { "id": "mandiri", "nama": "Mandiri", "no_rek": "", "atas_nama": "" },
+      { "id": "neo", "nama": "Neo Bank", "no_rek": "", "atas_nama": "" }
+    ],
+    "ewallet": [
+      { "id": "dana", "nama": "DANA", "no_telp": "", "atas_nama": "" },
+      { "id": "gopay", "nama": "GoPay", "no_telp": "", "atas_nama": "" },
+      { "id": "shopeepay", "nama": "ShopeePay", "no_telp": "", "atas_nama": "" },
+      { "id": "ovo", "nama": "OVO", "no_telp": "", "atas_nama": "" }
+    ]
+  },
+  "akses_admin": [
+    "mela@admin.com",
+    "ira@admin.com",
+    "jelita@admin.com",
+    "jihan@admin.com",
+    "marni@admin.com",
+    "linda@admin.com",
+    "maspupah@admin.com"
+  ]
+}
+]

@@ -1,0 +1,17 @@
+{
+  "name": "DimDump Admin Panel",
+  "short_name": "DimDump Admin",
+  "description": "Admin Dashboard",
+  "start_url": "/admin/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/gambar/admin-install.webp",
+      "sizes": "192x192 512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}

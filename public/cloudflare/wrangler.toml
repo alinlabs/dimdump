@@ -1,0 +1,14 @@
+name = "dimdump-worker"
+main = "worker.js"
+compatibility_date = "2024-05-31"
+
+# KV Namespace Binding
+[[kv_namespaces]]
+binding = "database_static"
+id = "YOUR_KV_NAMESPACE_ID"
+
+# D1 Database Binding
+[[d1_databases]]
+binding = "data_realtime"
+database_name = "data_realtime"
+database_id = "5a0fff08-af11-4f21-8151-05c3b535e8a6"

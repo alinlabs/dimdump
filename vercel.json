@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://dimdump.melamelati175.workers.dev/api/$1"
+    },
+    {
+      "source": "/admin(.*)",
+      "destination": "/admin/index.html"
+    },
+    {
+      "source": "/info(.*)",
+      "destination": "/info/index.html"
+    },
+    {
+      "source": "/link(.*)",
+      "destination": "/link/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

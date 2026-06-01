@@ -1,0 +1,11 @@
+{
+  "name": "DimDump",
+  "description": "Website profesional untuk UMKM Dimsum Goreng mahasiswa dengan tema merah kuning.",
+  "requestFramePermissions": [
+    "geolocation",
+    "popups"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
